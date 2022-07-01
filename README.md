@@ -1,6 +1,6 @@
 - 👋 olá meu nome é @GabriellyFav27
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
-- 💞️ I’m looking to collaborate on ...
+- Meu e-mail @gabrielly.granada@escola.pr.gov.br 
 
 
 <!---
